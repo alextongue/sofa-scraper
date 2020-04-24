@@ -1,6 +1,6 @@
 # SOFA HRTF Starter Pack
 
-This is an easy-to-run set of starter files to start working with HRTFs in the SOFA format. It installs a package in pip and allows for easy downloading of SOFA files if they're all stored together on an HTTP directory. This is optimized to be run on UCSD's supercomputer clusters ([datahub.ucsd.edu](datahub.ucsd.edu)), but using this should also set up a local installation just fine.
+This is an easy-to-run set of starter files to start working with HRTFs encoded in the SOFA (**S**patially **O**riented **F**ormat for **A**coustics) format using the Python scripting language. It installs pysofaconventions using pip and allows for easy downloading of SOFA files if they're all stored together on an HTTP directory. This is optimized to be run on UCSD's supercomputer clusters ([datahub.ucsd.edu](datahub.ucsd.edu)), but using this should also set up a local installation just fine.
 
 ## Instructions
 
