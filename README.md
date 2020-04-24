@@ -4,7 +4,7 @@ This is an easy-to-run set of starter files to start working with HRTFs in the S
 
 ## Instructions
 
-1. Upload the four files in this folder to your project directory.
+1. Upload the four files in this repository to your project directory (3 .ipynb files, 1 .py file).
 2. Run the three Jupyter notebooks (.ipynb) in order.
 3. ???
 4. Convergence!
